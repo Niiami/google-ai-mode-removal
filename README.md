@@ -4,7 +4,7 @@ Userscript to remove AI Mode button from Google search results
 # Google Search AI Mode Removal Tool
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Greasy Fork](https://img.shields.io/badge/Greasy%20Fork-Install%20Now-brightgreen)](https://greasyfork.org/en/scripts/XXXXX-google-ai-mode-removal)
+[![Greasy Fork](https://img.shields.io/badge/Greasy%20Fork-Install%20Now-brightgreen)](https://greasyfork.org/pt-BR/scripts/550836-google-ai-mode-removal)
 
 ## Overview
 
