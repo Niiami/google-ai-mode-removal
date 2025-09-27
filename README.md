@@ -36,7 +36,7 @@ Install a userscript manager extension:
 
 ### Installation Procedure
 1. Install the appropriate userscript manager for your browser
-2. Navigate to the [Greasy Fork installation page](https://greasyfork.org/en/scripts/XXXXX-google-ai-mode-removal)
+2. Navigate to the [Greasy Fork installation page](https://greasyfork.org/pt-BR/scripts/550836-google-ai-mode-removal)
 3. Click "Install this script"
 4. Confirm installation when prompted by the extension
 
